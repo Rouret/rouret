@@ -10,7 +10,7 @@
   <img align="left" alt=Rouret Lucas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br/>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="600" height="420" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="490" height="310" />
 
 
 **Talking about Personal Stuffs:**
