@@ -16,7 +16,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Vuejs & Java; 
+- 🌱 I’m currently learning Cloud & data structures and algorithms; 
 - 💬 Ask me about anything, I am happy to help;
 
 
